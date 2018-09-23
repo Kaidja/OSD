@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UIpp Title="Kaido Järvemets">
+	<Actions>
+    <Action Type="ErrorInfo" Name="Win10Upgrade" Title="Upgrade in Progress" Image="C:\Program Files\KJ Windows 10 Upgrade Notification\Windows10.png" InfoImage="C:\Program Files\KJ Windows 10 Upgrade Notification\stop.png">
+      <![CDATA[<font size="+6">This system is being actively upgraded to the latest version of Windows 10. Under penalty of public humilitation and social media ridicule, please do <b>not</b> interact with this system, reboot, or shut it down.</font>]]>
+    </Action>
+  </Actions>
+</UIpp>
